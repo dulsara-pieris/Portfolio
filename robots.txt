@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dulsara-pieris.github.io/Portfolio/sitemap.xml
